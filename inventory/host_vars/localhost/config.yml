@@ -1,0 +1,7 @@
+---
+
+domain: www.fairteil.de
+rails_env: development
+
+admin_email: info@fairteil.de
+developer_email: info@fairteil.de
